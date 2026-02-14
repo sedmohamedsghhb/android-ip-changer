@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IP Changer</string>
+    <string name="accessibility_service_description">Automates Airplane Mode toggling for IP Changer app.</string>
+</resources>
